@@ -1,0 +1,20 @@
+.precio span{  
+background-color: #f85244;
+font-weight: bold;
+border-radius: 20%;
+padding: 5px;
+
+}
+
+.nombre{
+    color:#2271b3;
+}
+
+#navegacion{
+    border-bottom: 1px gray dashed;
+}
+
+.fw-bolder{
+    text-align: center;
+    padding-top: 15px;
+}
